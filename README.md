@@ -1,6 +1,7 @@
 1.The organism being studied is Ursus maritimus, commonly known as the polar bear. This GFF3 file being analyzed includes various sequence regions representing scaffolds or chromosomes of the polar bear's genome.
-
+...
 Data download: wget ftp://ftp.ensembl.org/pub/current_gff3/ursus_maritimus/Ursus_maritimus.UrsMar_1.0.112.gff3.gz Links to an external site.
+...
 
 gunzip Ursus_maritimus.UrsMar_1.0.112.gff3.gz
 
